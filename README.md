@@ -1,16 +1,61 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**mjanneh154/mjanneh154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Muhammed Lamin Janneh, an Economics graduate from The Gambia with an interest in econometrics, data science, and economic research.
 
-Here are some ideas to get you started:
+I use data and statistical methods to explore economic questions, build predictive models, and communicate findings through analysis and visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+* 🎓 Economics graduate
+* 📊 Interested in econometrics and quantitative economic research
+* 🤖 Interested in machine learning and predictive modelling
+* 📈 Interested in time series analysis and economic forecasting
+* 🌍 Interested in applying data analysis to real-world economic problems
+
+Technical Skills
+
+Programming & Data Analysis
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-learn
+* XGBoost
+
+Econometrics & Statistics
+
+* OLS Regression
+* Panel Data
+* Fixed Effects & Random Effects
+* Hypothesis Testing
+* Model Diagnostics
+* Time Series Analysis
+* Machine learning for economic forecasting
+
+Other Tools
+
+* Stata
+* Excel
+* SQL
+
+Current Focus
+
+I’m currently developing projects in:
+
+* Time Series Analysis & Forecasting
+* Econometrics
+* Panel Data Analysis
+* Machine Learning
+* Economic Data Analysis
+
+
+What I’m Learning
+
+* Advanced time series modelling
+* Advanced econometrics
+* Data visualization
+
+Connect With Me
+
+LinkedIn:https://www.linkedin.com/in/muhammed-lamin-janneh-4218792b4/
